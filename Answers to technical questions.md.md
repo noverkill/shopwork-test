@@ -17,7 +17,7 @@ Please answer the following questions in a markdown file called `Answers to tech
 	Laravel in general is amazingly simple to use and work with providing you countless useful and esay too use tools and ready to use solutions.
 	It supports high productivity and rapid development process with out of the box components and packages. 
 
-	The resulting code that you create on top of the framework base is most of the time beautifully elegant, concise, easy to maintain and extend. This is caused by the framework building on well know, best practice design patterns to support crreatic generic solutions on top of it.
+	The resulting code that you create on top of the framework base is most of the time beautifully elegant, concise, easy to maintain and extend. This is caused by the framework building on well know, best practice design patterns to support create generic solutions on top of it.
 
 	Laravel is well documented, and it has a big, supportive community and huge knowledge base to find information and ready to use examples of solving most of the usual things needed in web development. 
 
@@ -31,10 +31,10 @@ Please answer the following questions in a markdown file called `Answers to tech
 	Error messages can be more criptic and verbose, result harder to debug code, compared to using only vanilla PHP. (eg. usage of lot of magic methods)
 
 	Understanding and digging into core framework code is sometime hard 
-	and needs very advanced knowledge of the field, but without it it is not possible to fully understand the whole codebase of your own application. Also most of the time pointless and even impossible to familiarise yourself with all the under the hood codes and implementations of the framework itself, and these can also change sometimes quite rapidly making hard to keep track with these changes.
+	and needs very advanced knowledge of the field, but without it, it is not quite possible to fully understand the whole codebase of your own application. Also most of the time pointless and even impossible to familiarise yourself with all the under the hood codes and implementations of the framework itself, and these can also change sometimes quite rapidly making hard to keep track with these changes.
 
-	It provides very generic - and as a result sometime quite big and bloated - solutions to generic problems, making sure they can be used in the widest varieties of cases supporting the rapid development of all possible cases. The downside of this is that you could create something much simpler for just solving your specific problem.
+	It provides very generic - and as a result sometime quite big and bloated - solutions to generic problems, making sure they can be used in the widest varieties of cases supporting the rapid development in the widest possible cases. The downside of this is that you could create something much simpler for just solving your specific problem in vanilla PHP.
 
-	It can be more problematic to scale up with a framework then without.
-	Also memory / CPU usage etc.. of a framwork based code can be less efficient 
-	and possibly need special treatments later when scaling up.
+	It can be more problematic to scale up with a framework than without it.
+	Memory / CPU usage etc.. of a framwork based code can be less efficient 
+	and possibly need special optimisation techniques / replacement of some core code later when scaling up.
